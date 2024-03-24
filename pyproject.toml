@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "my-lib"
+name = "staslib"
 version = "0.1.0"
 description = ""
 authors = ["stfdxv <stepanov.s@umno.digital>"]
