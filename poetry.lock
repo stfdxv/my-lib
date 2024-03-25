@@ -10,7 +10,18 @@ files = [
     {file = "cowsay-6.1-py3-none-any.whl", hash = "sha256:274b1e6fc1b966d53976333eb90ac94cb07a450a700b455af9fbdf882244b30a"},
 ]
 
+[[package]]
+name = "dagster-pipes"
+version = "1.6.13"
+description = "Toolkit for Dagster integrations with transform logic outside of Dagster"
+optional = false
+python-versions = "<3.13,>=3.8"
+files = [
+    {file = "dagster-pipes-1.6.13.tar.gz", hash = "sha256:4efba77428ce47ccbe9d25ed00990f4975eb328225e41b1f110b7ee34dbe0b2e"},
+    {file = "dagster_pipes-1.6.13-py3-none-any.whl", hash = "sha256:f3f6b100fe049686d96919908bf3998c163a995a5188574914e0155413ce46b4"},
+]
+
 [metadata]
 lock-version = "2.0"
 python-versions = "3.12.*"
-content-hash = "ec3eac0838bf457f1b818efafee35924c983e2821aa6c72e38801180d73a7052"
+content-hash = "96f0adac8b364bfc16ff777f2b1d16e3dd3e7cbf38cb698445cac70b09cdee3a"

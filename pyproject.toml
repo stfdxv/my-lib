@@ -11,6 +11,9 @@ python = "3.12.*"
 cowsay = "^6.1"
 
 
+[tool.poetry.group.dagster.dependencies]
+dagster-pipes = "^1.6.13"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
